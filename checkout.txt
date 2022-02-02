@@ -1,5 +1,3 @@
 This is checkout page
 checkout completed
-changes in checkout
-
-chenges by user3
+changes in checkoutd
